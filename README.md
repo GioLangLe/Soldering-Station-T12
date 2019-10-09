@@ -2,8 +2,11 @@
 Hey all, 
 
 - My old product is damaged, I want something stronger, faster, etc ....
+
 More details about the product: Video update
+
   - T12 with a capacity of 72W, works most strongly at 24V> = 3A. It only takes about 5 ~ 7 seconds. You can check it out for yourself. When you came back it was a few times stronger: D: lol:
+  - Support Leddot or LCD Oled
   
 Current firmware: power-on password lock, password-lock temperature, 3 types of soldering iron parameters to save and recall functions (should be enough to be confused), double-click and click Shortcuts (function included one strong temperature button, turn off one button, sleep one button, three temperature switches, head switch, etc.), set the sensitivity of the vibration switch, adjust the volume and adjust the frequency, adjust the time Sleep More than 20 personalized settings, such as adjusting shutdown time, screen off automatically, low voltage alarm, etc., each function can be selected to close and open. There are many options for screensaver display mode (temperature display only, display clock, display logo, etc.)
  
