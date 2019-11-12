@@ -12,7 +12,7 @@ Current firmware: power-on password lock, password-lock temperature, 3 types of 
  
 Normal users can directly use the default settings, no need to set directly to use, to adjust the default restore value, easy to use. Press and hold for 3 seconds, then you can enter the menu after listening and you can set the interface without any instructions.
 
-I do not have the correct device to adjust the temperature yet. So sad. But around 180o  Celsius, it's too strong to melt everything.
+I do not have the correct device to adjust the temperature yet. So sad. But around 300o  Celsius, it's too strong to melt everything.
 
 Why it is STC and not STM, because it is quite difficult to order it plus MCP602 (AD822). : lol:
 
